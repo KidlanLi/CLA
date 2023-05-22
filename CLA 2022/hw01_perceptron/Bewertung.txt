@@ -1,0 +1,16 @@
+hw01_perceptron.test_perceptron.PerceptronClassifierTest.test01_dot_product_01 FAILED        0/1 points
+hw01_perceptron.test_perceptron.PerceptronClassifierTest.test02_creating_data_instance_01 OK    2/2
+hw01_perceptron.test_perceptron.PerceptronClassifierTest.test03_most_frequent_features_01 OK    2/2
+hw01_perceptron.test_perceptron.PerceptronClassifierTest.test04_filtering_features_01 OK    2/2
+hw01_perceptron.test_perceptron.PerceptronClassifierTest.test05_most_frequent_baseline_01 OK    1/1
+hw01_perceptron.test_perceptron.PerceptronClassifierTest.test_06_update_01 OK    1/1
+hw01_perceptron.test_perceptron.PerceptronClassifierTest.test_08_f1_measure_01 OK    2/2
+hw01_perceptron.hidden_test_perceptron.PerceptronClassifierTest.test01_dot_product_02 FAILED        0/1 points
+hw01_perceptron.hidden_test_perceptron.PerceptronClassifierTest.test02_creating_data_instance_02 OK    2/2
+hw01_perceptron.hidden_test_perceptron.PerceptronClassifierTest.test03_most_frequent_features_02 FAILED        0/2 points
+hw01_perceptron.hidden_test_perceptron.PerceptronClassifierTest.test04_filtering_features_02 OK    2/2
+hw01_perceptron.hidden_test_perceptron.PerceptronClassifierTest.test05_most_frequent_baseline_02 OK    1/1
+hw01_perceptron.hidden_test_perceptron.PerceptronClassifierTest.test_07_update_02 FAILED        0/1 points
+hw01_perceptron.hidden_test_perceptron.PerceptronClassifierTest.test_08_f1_measure_02 OK    2/2
+####################################
+TOTAL: 17/22 points

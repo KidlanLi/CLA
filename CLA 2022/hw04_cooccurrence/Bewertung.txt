@@ -1,0 +1,10 @@
+hw04_cooccurrence.test_cooccurrence.CooccurrenceTest.test_01_cooccurrences_01 OK    1/1
+hw04_cooccurrence.test_cooccurrence.CooccurrenceTest.test_01_cooccurrences_02 OK    1/1
+hw04_cooccurrence.test_cooccurrence.CooccurrenceTest.test_02_cooc_dict_to_matrix_01 OK    1/1
+hw04_cooccurrence.test_cooccurrence.CooccurrenceTest.test_02_cooc_dict_to_matrix_02 OK    1/1
+hw04_cooccurrence.test_cooccurrence.CooccurrenceTest.test_03_ppmi_weight_01 OK    1/1
+hw04_cooccurrence.test_cooccurrence.CooccurrenceTest.test_03_ppmi_weight_02 OK    1/1
+hw04_cooccurrence.test_cooccurrence.CooccurrenceTest.test_03_ppmi_weight_03 OK    1/1
+hw04_cooccurrence.test_cooccurrence.CooccurrenceTest.test_03_ppmi_weight_04 OK    1/1
+####################################
+TOTAL: 8/8 points

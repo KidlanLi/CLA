@@ -1,0 +1,18 @@
+hw06_skipgram.test_skipgram.Test_word_similarity.test_01_vocab_map    OK    1/1
+hw06_skipgram.test_skipgram.Test_word_similarity.test_02_sigmoid      OK    1/1
+hw06_skipgram.test_skipgram.Test_word_similarity.test_03_negative_samples_0 OK    0/0
+hw06_skipgram.test_skipgram.Test_word_similarity.test_03_negative_samples_1 OK    0/0
+hw06_skipgram.test_skipgram.Test_word_similarity.test_03_negative_samples_2 OK    1/1
+hw06_skipgram.test_skipgram.Test_word_similarity.test_03_negative_samples_3 OK    1/1
+hw06_skipgram.test_skipgram.Test_word_similarity.test_03_negative_samples_4 OK    1/1
+hw06_skipgram.test_skipgram.Test_word_similarity.test_04_skipgram_update_1 OK    3/3
+hw06_skipgram.hidden_test_skipgram.Test_word_similarity.test_01_vocab_map_hidden OK    1/1
+hw06_skipgram.hidden_test_skipgram.Test_word_similarity.test_02_sigmoid_hidden OK    1/1
+hw06_skipgram.hidden_test_skipgram.Test_word_similarity.test_03_negative_samples_0_hidden OK    1/1
+hw06_skipgram.hidden_test_skipgram.Test_word_similarity.test_03_negative_samples_1_hidden OK    1/1
+hw06_skipgram.hidden_test_skipgram.Test_word_similarity.test_03_negative_samples_2_hidden OK    1/1
+hw06_skipgram.hidden_test_skipgram.Test_word_similarity.test_03_negative_samples_3_hidden OK    0/0
+hw06_skipgram.hidden_test_skipgram.Test_word_similarity.test_03_negative_samples_4_hidden OK    0/0
+hw06_skipgram.hidden_test_skipgram.Test_word_similarity.test_04_skipgram_update_hidden OK    3/3
+####################################
+TOTAL: 16/16 points

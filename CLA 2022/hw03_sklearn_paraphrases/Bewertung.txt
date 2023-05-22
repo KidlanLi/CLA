@@ -1,0 +1,20 @@
+hw03_sklearn_paraphrases.test_paraphrases_scikit.Test_paraphrases_scikit.test_01_paraphrases_to_dataset FAILED        0/2 points
+hw03_sklearn_paraphrases.test_paraphrases_scikit.Test_paraphrases_scikit.test_02_read_data FAILED        0/2 points
+hw03_sklearn_paraphrases.test_paraphrases_scikit.Test_paraphrases_scikit.test_03_training FAILED        0/4 points
+hw03_sklearn_paraphrases.hidden_test_small_functions.TestSmallFunctions.test03a_trigram_quadragram_vectorizer_hidden OK    1/1
+hw03_sklearn_paraphrases.hidden_test_small_functions.TestSmallFunctions.test03b_trigram_quadragram_vectorizer_hidden OK    1/1
+hw03_sklearn_paraphrases.test_small_functions.TestSmallFunctions.test03a_trigram_quadragram_vectorizer OK    1/1
+hw03_sklearn_paraphrases.test_small_functions.TestSmallFunctions.test03b_trigram_quadragram_vectorizer OK    1/1
+hw03_sklearn_paraphrases.test_sklearn_experiments.Test_sklearn_experiments.test_01_m0 OK    0/0
+hw03_sklearn_paraphrases.test_sklearn_experiments.Test_sklearn_experiments.test_01_m1 OK    1/1
+hw03_sklearn_paraphrases.test_sklearn_experiments.Test_sklearn_experiments.test_02_m2 OK    1/1
+hw03_sklearn_paraphrases.test_sklearn_experiments.Test_sklearn_experiments.test_03_m1_m2 OK    1/1
+hw03_sklearn_paraphrases.test_sklearn_experiments.Test_sklearn_experiments.test_04_m1_m2 OK    1/1
+hw03_sklearn_paraphrases.hidden_test_sklearn_experiments.Test_sklearn_experiments.test_01_m1_hidden OK    1/1
+hw03_sklearn_paraphrases.hidden_test_sklearn_experiments.Test_sklearn_experiments.test_02_m2_hidden OK    1/1
+hw03_sklearn_paraphrases.hidden_test_sklearn_experiments.Test_sklearn_experiments.test_03_m1_m2_hidden OK    1/1
+hw03_sklearn_paraphrases.hidden_test_sklearn_experiments.Test_sklearn_experiments.test_04_m1_m2_hidden OK    1/1
+hw03_sklearn_paraphrases.hidden_test_paraphrases_scikit.Test_paraphrases_scikit.test_01_paraphrases_to_dataset_hidden FAILED        0/2 points
+hw03_sklearn_paraphrases.hidden_test_paraphrases_scikit.Test_paraphrases_scikit.test_02_read_data_hidden FAILED        0/2 points
+####################################
+TOTAL: 12/24 points

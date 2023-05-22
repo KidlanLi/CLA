@@ -1,0 +1,12 @@
+hw05_word_similarity.test_word_similarity.TestWordSimilarity.test01_vocabulary_from_wordlist OK    2/2
+hw05_word_similarity.test_word_similarity.TestWordSimilarity.test02_create_sparse_matrix OK    2/2
+hw05_word_similarity.test_word_similarity.TestWordSimilarity.test03_toSvdSimilarityMatrix OK    2/2
+hw05_word_similarity.test_word_similarity.TestWordSimilarity.test04a_most_similar_words OK    1/1
+hw05_word_similarity.test_word_similarity.TestWordSimilarity.test04b_most_similar_words OK    1/1
+hw05_word_similarity.hidden_test_word_similarity.HiddenTestWordSimilarity.test01_vocabulary_from_wordlist_hidden OK    2/2
+hw05_word_similarity.hidden_test_word_similarity.HiddenTestWordSimilarity.test02_create_sparse_matrix OK    2/2
+hw05_word_similarity.hidden_test_word_similarity.HiddenTestWordSimilarity.test03_toSvdSimilarityMatrix OK    2/2
+hw05_word_similarity.hidden_test_word_similarity.HiddenTestWordSimilarity.test04_most_similar_words OK    1/1
+hw05_word_similarity.hidden_test_word_similarity.HiddenTestWordSimilarity.test05_similarities_of_word FAILED        0/1 points
+####################################
+TOTAL: 15/16 points

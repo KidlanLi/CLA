@@ -1,0 +1,8 @@
+hw08_neural_networks.test_neural_networks.TestNeuralNetworks.test_01_create_dictionary OK    1/1
+hw08_neural_networks.test_neural_networks.TestNeuralNetworks.test_02_to_ids OK    1/1
+hw08_neural_networks.test_neural_networks.TestNeuralNetworks.test_03_rnn_training OK    6/6
+hw08_neural_networks.test_neural_networks.TestNeuralNetworks.test_04_cnn_training OK    6/6
+hw08_neural_networks.hidden_test_neural_networks.TestNeuralNetworksHidden.test_01_create_dictionary OK    1/1
+hw08_neural_networks.hidden_test_neural_networks.TestNeuralNetworksHidden.test_02_to_ids OK    1/1
+####################################
+TOTAL: 16/16 points

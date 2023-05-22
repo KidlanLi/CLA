@@ -1,0 +1,20 @@
+hw02_paraphrases.test_paraphrases.FeaturesTest.test01_token_ngrams    OK    0.5/0.5
+hw02_paraphrases.test_paraphrases.FeaturesTest.test02_token_features  OK    0.5/0.5
+hw02_paraphrases.test_paraphrases.FeaturesTest.test03_word_ngram_features OK    0.5/0.5
+hw02_paraphrases.test_paraphrases.FeaturesTest.test04_character_ngram_features OK    0.5/0.5
+hw02_paraphrases.test_paraphrases.FeaturesTest.test05_wordpair_features OK    0.5/0.5
+hw02_paraphrases.hidden_test_paraphrases.HiddenFeaturesTest.test01_token_ngrams_hidden OK    0.5/0.5
+hw02_paraphrases.hidden_test_paraphrases.HiddenFeaturesTest.test02_token_features_hidden OK    0.5/0.5
+hw02_paraphrases.hidden_test_paraphrases.HiddenFeaturesTest.test03_word_ngram_features_hidden OK    0.5/0.5
+hw02_paraphrases.hidden_test_paraphrases.HiddenFeaturesTest.test04_character_ngram_features_hidden OK    0.5/0.5
+hw02_paraphrases.hidden_test_paraphrases.HiddenFeaturesTest.test05_wordpair_features_hidden OK    0.5/0.5
+hw02_paraphrases.test_small_functions.TestSmallFunctions.test01a_square_roots OK    1/1
+hw02_paraphrases.test_small_functions.TestSmallFunctions.test01b_square_roots OK    1/1
+hw02_paraphrases.test_small_functions.TestSmallFunctions.test02a_odd_ones_squared OK    1/1
+hw02_paraphrases.test_small_functions.TestSmallFunctions.test02b_odd_ones_squared OK    1/1
+hw02_paraphrases.hidden_test_small_functions.TestSmallFunctions.test01a_square_roots_hidden OK    1/1
+hw02_paraphrases.hidden_test_small_functions.TestSmallFunctions.test01b_square_roots_hidden OK    1/1
+hw02_paraphrases.hidden_test_small_functions.TestSmallFunctions.test02a_odd_ones_squared_hidden OK    1/1
+hw02_paraphrases.hidden_test_small_functions.TestSmallFunctions.test02b_odd_ones_squared_hidden OK    1/1
+####################################
+TOTAL: 13.0/13.0 points
